@@ -18,7 +18,7 @@ class SanadApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Doc App',
         theme: ThemeData(
-          primaryColor: ColorsManager.mainBlue,
+          primaryColor: ColorsManager.mainColor,
           scaffoldBackgroundColor: Colors.white,
         ),
         debugShowCheckedModeBanner: false,
