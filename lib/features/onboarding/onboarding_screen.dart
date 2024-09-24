@@ -25,7 +25,7 @@ class OnboardingScreen extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      'نعمل على بناء الشباب ليؤثر إيجاباً بمجتمعه ونشكل بيئة داعمة لهم لنكون سنداً للشباب بمختلف خياراتهم',
+                      'We work to build young people to have a positive impact on their society and create a supportive environment for them to be a support for young people with their various choices.',
                       style: TextStyles.font13GrayRegular,
                       textAlign: TextAlign.center,
                     ),
